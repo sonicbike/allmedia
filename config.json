@@ -1,0 +1,25 @@
+{
+"NOTES":"Mode can be one of: sonic-bike-swamp OR sonic-bike-findingsong OR worms",
+"mode":"sonic-bike-findingsong",
+
+"gps_device":"/dev/ttyUSB0",
+"gps_baud":"4800",
+
+"audio_samplerate":48000,
+"audio_player_bin":"/home/sonic/ofv0.8.4armv7/apps/myApps/SonicBikeAudioEngine/bin/SonicBikeAudioEngine",
+"direction_track_time":15,
+
+"debug":"false",
+"fake_gps":"true",
+"fake_speed":1,
+
+"NOTE2":"Edit the lines below so they point to the correct folder on the SD card",
+"fake_gps_log":"/home/sonic/sdcard/findingsonghome/fakegps.log", 
+"audio_path": "/home/sonic/sdcard/findingsonghome/sound/",
+"mapfile":"/home/sonic/sdcard/findingsonghome/map.json",
+"audio_log":"/home/sonic/sdcard/findingsonghome/logs/audio.log",
+"logfile":"/home/sonic/sdcard/findingsonghome/logs/system.log",
+"gpslog":"/home/sonic/sdcard/findingsonghome/logs/gps.log"
+
+
+}

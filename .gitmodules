@@ -1,0 +1,3 @@
+[submodule "findingsonghome"]
+	path = findingsonghome
+	url = https://github.com/sonicbike/findingsonghome.git
