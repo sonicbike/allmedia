@@ -7,26 +7,25 @@
 
 "NOTE_FOR:audio_samplerate":"TurtleBeachSoundscard should be:48000 BehringerUCA202:44100",
 "audio_samplerate":48000,
-"audio_player_bin":"/home/sonic/ofv0.8.4armv7/apps/myApps/SonicBikeAudioEngine/bin/SonicBikeAudioEngine",
 
 "NOTE_FOR: direction_track_time":"Period between direction/speed checks. Was 15",
 "direction_track_time":7,
 
 "NOTE_FOR: fake_gps": "true/false if its true then the gps device will be turned off and a gps track will be loaded",
 "debug":"false",
-"fake_gps":"false",
+"fake_gps":"true",
 
 "NOTE_FOR: pitch_mode":"Can be one of pitch-direction, pitch-random, pitch-speed",
 "pitch_mode":"pitch-speed",
 
 "NOTES":"Edit the lines below so they point to the correct folder on the SD card i.e. change dir after 'sdcard/'",
-"fake_gps_log":"/home/sonic/sdcard/FSHLab/fakegps.log", 
-"audio_path": "/home/sonic/sdcard/FSHLab/sound/",
-"mapfile":"/home/sonic/sdcard/FSHLab/map.json",
+"fake_gps_log":"/home/sonic/audio/testlab/fakegps.log", 
+"audio_path": "/home/sonic/audio/testlab/sound/",
+"mapfile":"/home/sonic/audio/testlab/map.json",
 
-"audio_log":"/home/sonic/sdcard/FSHLab/logs/audio.log",
-"logfile":"/home/sonic/sdcard/FSHLab/logs/system.log",
-"gpslog":"/home/sonic/sdcard/FSHLab/logs/gps.log"
+"audio_log":"/home/sonic/audio/testlab/logs/audio.log",
+"logfile":"/home/sonic/audio/testlab/logs/system.log",
+"gpslog":"/home/sonic/audio/testlab/logs/gps.log"
 
 
 }
