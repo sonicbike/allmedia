@@ -19,13 +19,13 @@
 "pitch_mode":"pitch-speed",
 
 "NOTES":"Edit the lines below so they point to the correct folder on the SD card i.e. change dir after 'sdcard/'",
-"fake_gps_log":"/home/sonic/audio/testlab/fakegps.log", 
-"audio_path": "/home/sonic/audio/testlab/sound/",
-"mapfile":"/home/sonic/audio/testlab/map.json",
+"fake_gps_log":"/home/sonic/audio/audiotest/fakegps.log", 
+"audio_path": "/home/sonic/audio/audiotest/sound/",
+"mapfile":"/home/sonic/audio/audiotest/map.json",
 
-"audio_log":"/home/sonic/audio/testlab/logs/audio.log",
-"logfile":"/home/sonic/audio/testlab/logs/system.log",
-"gpslog":"/home/sonic/audio/testlab/logs/gps.log"
+"audio_log":"/home/sonic/audio/audiotest/logs/audio.log",
+"logfile":"/home/sonic/audio/audiotest/logs/system.log",
+"gpslog":"/home/sonic/audio/audiotest/logs/gps.log"
 
 
 }
