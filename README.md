@@ -1,7 +1,12 @@
-# sdcard
-This should be in the root of an SDcard plugged into a Beaglebone Black.
-The SDcard should be mounted to the follwing directory:
+# Test Audio
+Find full install instructions for the sonic bike system  at:
+https://github.com/sonicbikes/sonic-bike-init
 
-    /home/sonic/sdcard
+This repository contains:
+
+- Test audio
+- System configeration file
+- Sonic bike map 
+- Test GPS route
 
 
