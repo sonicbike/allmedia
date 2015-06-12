@@ -18,7 +18,7 @@
 "NOTE_FOR: pitch_mode":"Can be one of pitch-direction, pitch-random, pitch-speed",
 "pitch_mode":"pitch-speed",
 
-"NOTES":"Edit the lines below so they point to the correct folder on the SD card i.e. change dir after 'sdcard/'",
+"NOTES":"Edit the lines below so they point to the correct folder on the USB stick i.e. change dir after /home/sonic/audio",
 "fake_gps_log":"/home/sonic/audio/audiotest/fakegps.log", 
 "audio_path": "/home/sonic/audio/audiotest/sound/",
 "mapfile":"/home/sonic/audio/audiotest/map.json",
